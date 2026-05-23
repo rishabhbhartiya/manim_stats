@@ -1,0 +1,24 @@
+# Manim output
+media/
+
+# Python cache
+__pycache__/
+*.pyc
+*.py[cod]
+*.pyo
+
+# Package build
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
